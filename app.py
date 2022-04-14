@@ -62,7 +62,7 @@ def scrapping():
             pass
 
         # driver path and actual scrapping
-        driver_path = "driver/chromedriver.exe"
+        driver_path = "driver\\chromedriver"
         scrapping_obj = Scrapping(driver_path)  # creating scrapping object
 
         categories_list = scrapping_obj.scrapping(database, table, limit)  # get the list of categories
