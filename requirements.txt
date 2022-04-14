@@ -1,3 +1,2 @@
-Flask
-sqlite
-selenium
+Flask==1.0.2
+selenium~=4.1.3
