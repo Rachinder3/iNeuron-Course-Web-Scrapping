@@ -1,0 +1,67 @@
+{%extends "base.html"%}
+
+{%block head%}
+
+<title>
+    Srapping Successful
+</title>
+{%endblock%}
+
+
+{%block body%}
+
+<div class="container-fluid">
+
+    <div class="jumbotron">
+        <h3>
+            Let's see the results!!!
+        </h3>
+
+        <p>
+            If you want to view a particular category, select that category.
+
+        </p>
+
+
+        <form action="{{url_for('results')}}">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <label class="input-group-text" for="inputGroupSelect01">Categories</label>
+                </div>
+
+                <select class="custom-select" id="inputGroupSelect01" name="selected_category">
+
+
+
+
+                    <option selected>Choose....</option>
+
+                    {%for i in categories_list%}
+                    <option value={{i}}>{{i}}</option>
+
+                    {% endfor %}
+                </select>
+
+                 <button type="submit" class="btn btn-dark">View the Results</button>
+
+            </div>
+
+        </form>
+
+
+
+
+    </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+{% endblock %}

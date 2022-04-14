@@ -1,0 +1,43 @@
+{%extends "base.html"%}
+
+
+{%block body%}
+
+<div class="container-fluid">
+     <table class="table">
+            <thead>
+
+                <tr>
+                    {% for column in header_list %}
+                        <th scope="col">{{column|capitalize}}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+
+                    {% for record in res%}
+                    <tr>
+                        {%for column in record%}
+                            <td>{{column}}</td>
+                        {%endfor%}
+                    </tr>
+                    {% endfor%}
+
+
+
+
+
+
+
+
+            </tbody>
+
+        </table>
+
+
+    </div>
+
+
+
+
+{%endblock%}

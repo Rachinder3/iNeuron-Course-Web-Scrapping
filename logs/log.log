@@ -1,0 +1,108 @@
+2022-04-14 22:50:43,556 INFO index function executed
+2022-04-14 22:54:42,070 INFO Scrapping function executed successfully
+2022-04-14 22:54:51,627 INFO results function executed successfully
+2022-04-14 22:54:54,625 INFO index function executed
+2022-04-14 22:54:56,337 INFO results_without_scrapping executed successfully
+2022-04-14 22:54:59,438 INFO results function executed successfully
+2022-04-14 22:55:13,844 INFO index function executed
+2022-04-14 22:55:15,437 INFO results_without_scrapping executed successfully
+2022-04-14 22:55:17,787 INFO index function executed
+2022-04-14 23:24:31,459 INFO index function executed
+2022-04-14 23:24:31,459 INFO index function executed
+2022-04-14 23:24:31,459 INFO index function executed
+2022-04-14 23:26:11,365 INFO index function executed
+2022-04-14 23:26:11,365 INFO index function executed
+2022-04-14 23:26:11,365 INFO index function executed
+2022-04-14 23:26:38,970 INFO index function executed
+2022-04-14 23:26:38,970 INFO index function executed
+2022-04-14 23:26:38,970 INFO index function executed
+2022-04-14 23:26:42,618 INFO results_without_scrapping executed successfully
+2022-04-14 23:26:42,618 INFO results_without_scrapping executed successfully
+2022-04-14 23:26:42,618 INFO results_without_scrapping executed successfully
+2022-04-14 23:26:45,704 INFO results function executed successfully
+2022-04-14 23:26:45,704 INFO results function executed successfully
+2022-04-14 23:26:45,704 INFO results function executed successfully
+2022-04-14 23:26:48,965 INFO index function executed
+2022-04-14 23:26:48,965 INFO index function executed
+2022-04-14 23:26:48,965 INFO index function executed
+2022-04-14 23:26:51,178 INFO execute query with commit successful
+2022-04-14 23:26:51,178 INFO execute query with commit successful
+2022-04-14 23:26:51,178 INFO execute query with commit successful
+2022-04-14 23:26:51,179 INFO flush_db function executed successful
+2022-04-14 23:26:51,179 INFO flush_db function executed successful
+2022-04-14 23:26:51,179 INFO flush_db function executed successful
+2022-04-14 23:26:55,040 INFO results_without_scrapping executed successfully
+2022-04-14 23:26:55,040 INFO results_without_scrapping executed successfully
+2022-04-14 23:26:55,040 INFO results_without_scrapping executed successfully
+2022-04-14 23:26:57,453 INFO index function executed
+2022-04-14 23:26:57,453 INFO index function executed
+2022-04-14 23:26:57,453 INFO index function executed
+2022-04-14 23:26:58,521 INFO problem in execute query with commit
+2022-04-14 23:26:58,521 INFO problem in execute query with commit
+2022-04-14 23:26:58,521 INFO problem in execute query with commit
+2022-04-14 23:26:58,522 INFO table scrap already exists
+2022-04-14 23:26:58,522 INFO table scrap already exists
+2022-04-14 23:26:58,522 INFO table scrap already exists
+2022-04-14 23:27:17,187 INFO scrapping function executed successfully
+2022-04-14 23:27:17,187 INFO scrapping function executed successfully
+2022-04-14 23:27:17,187 INFO scrapping function executed successfully
+2022-04-14 23:29:23,963 INFO scrapping function successful
+2022-04-14 23:29:23,963 INFO scrapping function successful
+2022-04-14 23:29:23,963 INFO scrapping function successful
+2022-04-14 23:29:30,625 INFO execute query with commit successful
+2022-04-14 23:29:30,625 INFO execute query with commit successful
+2022-04-14 23:29:30,625 INFO execute query with commit successful
+2022-04-14 23:29:39,590 INFO execute query with commit successful
+2022-04-14 23:29:39,590 INFO execute query with commit successful
+2022-04-14 23:29:39,590 INFO execute query with commit successful
+2022-04-14 23:29:51,498 INFO execute query with commit successful
+2022-04-14 23:29:51,498 INFO execute query with commit successful
+2022-04-14 23:29:51,498 INFO execute query with commit successful
+2022-04-14 23:30:00,454 INFO execute query with commit successful
+2022-04-14 23:30:00,454 INFO execute query with commit successful
+2022-04-14 23:30:00,454 INFO execute query with commit successful
+2022-04-14 23:30:09,584 INFO execute query with commit successful
+2022-04-14 23:30:09,584 INFO execute query with commit successful
+2022-04-14 23:30:09,584 INFO execute query with commit successful
+2022-04-14 23:30:18,356 INFO execute query with commit successful
+2022-04-14 23:30:18,356 INFO execute query with commit successful
+2022-04-14 23:30:18,356 INFO execute query with commit successful
+2022-04-14 23:30:30,492 INFO execute query with commit successful
+2022-04-14 23:30:30,492 INFO execute query with commit successful
+2022-04-14 23:30:30,492 INFO execute query with commit successful
+2022-04-14 23:30:39,321 INFO execute query with commit successful
+2022-04-14 23:30:39,321 INFO execute query with commit successful
+2022-04-14 23:30:39,321 INFO execute query with commit successful
+2022-04-14 23:30:48,129 INFO execute query with commit successful
+2022-04-14 23:30:48,129 INFO execute query with commit successful
+2022-04-14 23:30:48,129 INFO execute query with commit successful
+2022-04-14 23:31:00,072 INFO execute query with commit successful
+2022-04-14 23:31:00,072 INFO execute query with commit successful
+2022-04-14 23:31:00,072 INFO execute query with commit successful
+2022-04-14 23:31:00,072 INFO extract data successful
+2022-04-14 23:31:00,072 INFO extract data successful
+2022-04-14 23:31:00,072 INFO extract data successful
+2022-04-14 23:31:00,072 INFO scrapping function successful
+2022-04-14 23:31:00,072 INFO scrapping function successful
+2022-04-14 23:31:00,072 INFO scrapping function successful
+2022-04-14 23:31:00,074 INFO Scrapping function executed successfully
+2022-04-14 23:31:00,074 INFO Scrapping function executed successfully
+2022-04-14 23:31:00,074 INFO Scrapping function executed successfully
+2022-04-14 23:31:06,666 INFO results function executed successfully
+2022-04-14 23:31:06,666 INFO results function executed successfully
+2022-04-14 23:31:06,666 INFO results function executed successfully
+2022-04-14 23:31:09,661 INFO index function executed
+2022-04-14 23:31:09,661 INFO index function executed
+2022-04-14 23:31:09,661 INFO index function executed
+2022-04-14 23:31:11,539 INFO results_without_scrapping executed successfully
+2022-04-14 23:31:11,539 INFO results_without_scrapping executed successfully
+2022-04-14 23:31:11,539 INFO results_without_scrapping executed successfully
+2022-04-14 23:31:15,633 INFO results function executed successfully
+2022-04-14 23:31:15,633 INFO results function executed successfully
+2022-04-14 23:31:15,633 INFO results function executed successfully
+2022-04-14 23:31:18,235 INFO index function executed
+2022-04-14 23:31:18,235 INFO index function executed
+2022-04-14 23:31:18,235 INFO index function executed
+2022-04-14 23:38:45,350 INFO index function executed
+2022-04-14 23:38:45,350 INFO index function executed
+2022-04-14 23:38:45,350 INFO index function executed
