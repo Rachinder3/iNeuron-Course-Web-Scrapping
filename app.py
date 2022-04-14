@@ -80,7 +80,7 @@ def scrapping():
     except Exception as e:
         log_obj.add_log("Problem in scrapping function")
         log_obj.add_log(str(e))
-        return "<h1> There is some problem </h1>"
+        return "<h1> {} </h1>".format(str(e))
 
 
 ########################################################################################################################
