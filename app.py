@@ -11,10 +11,10 @@ app = Flask(__name__)  # create Flask object
 
 # different parameters
 
-database = "database/ineuron_scrapping.sqlite"
+database = "database\\ineuron_scrapping.sqlite"
 table = "scrap"
-pickle_dump_base_url = "pickle_dump/"
-log_obj = Logger("logs/log.log")
+pickle_dump_base_url = "pickle_dump\\"
+log_obj = Logger("logs\\log.log")
 
 
 ########################################################################################################################
@@ -62,7 +62,7 @@ def scrapping():
             pass
 
         # driver path and actual scrapping
-        driver_path = "driver/chromedriver"
+        driver_path = "driver\\chromedriver.exe"
         scrapping_obj = Scrapping(driver_path)  # creating scrapping object
 
         categories_list = scrapping_obj.scrapping(database, table, limit)  # get the list of categories

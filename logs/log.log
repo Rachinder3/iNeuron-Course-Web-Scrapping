@@ -277,3 +277,33 @@ Backtrace:
 2022-04-15 01:20:17,963 INFO 'NoneType' object is not iterable
 2022-04-15 01:20:17,963 INFO 'NoneType' object is not iterable
 2022-04-15 01:20:17,963 INFO 'NoneType' object is not iterable
+2022-04-15 02:26:50,183 INFO index function executed
+2022-04-15 02:26:50,183 INFO index function executed
+2022-04-15 02:26:50,183 INFO index function executed
+2022-04-15 02:26:51,433 INFO problem in execute query with commit
+2022-04-15 02:26:51,433 INFO problem in execute query with commit
+2022-04-15 02:26:51,433 INFO problem in execute query with commit
+2022-04-15 02:26:51,433 INFO table scrap already exists
+2022-04-15 02:26:51,433 INFO table scrap already exists
+2022-04-15 02:26:51,433 INFO table scrap already exists
+2022-04-15 02:27:00,218 INFO scrapping function executed successfully
+2022-04-15 02:27:00,218 INFO scrapping function executed successfully
+2022-04-15 02:27:00,218 INFO scrapping function executed successfully
+2022-04-15 02:29:18,883 INFO scrapping function successful
+2022-04-15 02:29:18,883 INFO scrapping function successful
+2022-04-15 02:29:18,883 INFO scrapping function successful
+2022-04-15 02:29:25,030 INFO execute query with commit successful
+2022-04-15 02:29:25,030 INFO execute query with commit successful
+2022-04-15 02:29:25,030 INFO execute query with commit successful
+2022-04-15 02:29:33,621 INFO execute query with commit successful
+2022-04-15 02:29:33,621 INFO execute query with commit successful
+2022-04-15 02:29:33,621 INFO execute query with commit successful
+2022-04-15 02:29:45,300 INFO execute query with commit successful
+2022-04-15 02:29:45,300 INFO execute query with commit successful
+2022-04-15 02:29:45,300 INFO execute query with commit successful
+2022-04-15 02:29:53,965 INFO execute query with commit successful
+2022-04-15 02:29:53,965 INFO execute query with commit successful
+2022-04-15 02:29:53,965 INFO execute query with commit successful
+2022-04-15 02:30:02,745 INFO execute query with commit successful
+2022-04-15 02:30:02,745 INFO execute query with commit successful
+2022-04-15 02:30:02,745 INFO execute query with commit successful

@@ -5,13 +5,18 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from sqlite.sqlite import sqlite
 from logger.logger import Logger
-
+import os
 
 class Scrapping:
     __log_obj = Logger("logs\\log.log")
 
     def __init__(self, driver_path):
-        self.driver = webdriver.Chrome(executable_path=driver_path)
+        chrome_options= webdriver.ChromeOptions()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+        self.driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
         self.driver.maximize_window()
 
     def __get_categories(self):
