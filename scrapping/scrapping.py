@@ -187,7 +187,9 @@ class Scrapping:
     def scrapping(self, database, table, limit):
         try:
             """main function to perform actual scrapping"""
-            categories_list = self.__get_categories()
+            #categories_list = self.__get_categories()
+            categories_list = ['Data Science', 'Development', 'Cloud', 'Devops', 'Programming', 'Marketing',
+                               'Teaching & Academics', 'Kids', 'Community Courses']
             categories_course_dict = self.__extract_each_course_url(categories_list)
             self.__extract_data(categories_course_dict, database, table, limit)
             Scrapping.__log_obj.add_log("scrapping function successful")
