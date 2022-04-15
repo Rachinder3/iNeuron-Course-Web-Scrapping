@@ -42,8 +42,7 @@ def scrapping():
 
         # create table if it doesn't exist, if it does, don't do anything
 
-        limit = request.values.get(
-            "limit")  # fetching the max number of courses to be extracted per category. Helps in saving time.
+        limit = request.values.get("limit")  # fetching the max number of courses to be extracted per category. Helps in saving time.
 
         if limit.isdigit():  # making sure limit is a digit.
             limit = int(limit)
